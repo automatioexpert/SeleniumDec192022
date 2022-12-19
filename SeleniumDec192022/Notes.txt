@@ -4,5 +4,28 @@ Notes For Framework:
 -TestBase completed
 -Config Reader completed
 -Extent Report
--
+-Listeners
+-Screenshot
+-Page objects
+-Mvn compiler & surefire plugin
+-Dataprovider
+-Excel Reader
+-Log4j
+
+-Utilities:
+ -Config reader
+ -Exception handling
+ -Excel Reader
+ -Extent Manager
+ -Random String/Chars generator
+ -DB connector
+ -
+ -
+ -Common actions
+ -Common helper(Alert,Browser,Dropdown,Javascript methods,Assertion library,Logger
+                -Wait,generic helper
+                
+                
+ 
+ 
 

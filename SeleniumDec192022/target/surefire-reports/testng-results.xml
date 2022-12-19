@@ -2,20 +2,20 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="349" started-at="2022-12-19T10:15:16 IST" finished-at="2022-12-19T10:15:17 IST">
+  <suite name="Suite" duration-ms="328" started-at="2022-12-19T10:37:40 IST" finished-at="2022-12-19T10:37:40 IST">
     <groups>
     </groups>
-    <test name="Test" duration-ms="349" started-at="2022-12-19T10:15:16 IST" finished-at="2022-12-19T10:15:17 IST">
+    <test name="Test" duration-ms="328" started-at="2022-12-19T10:37:40 IST" finished-at="2022-12-19T10:37:40 IST">
       <class name="testcases.LoginTest">
-        <test-method status="PASS" signature="setUp()[pri:0, instance:testcases.LoginTest@3a883ce7]" name="setUp" is-config="true" duration-ms="5184" started-at="2022-12-19T10:15:11 IST" finished-at="2022-12-19T10:15:16 IST">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:testcases.LoginTest@4f063c0a]" name="setUp" is-config="true" duration-ms="4941" started-at="2022-12-19T10:37:35 IST" finished-at="2022-12-19T10:37:40 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="login()[pri:0, instance:testcases.LoginTest@3a883ce7]" name="login" duration-ms="315" started-at="2022-12-19T10:15:16 IST" finished-at="2022-12-19T10:15:17 IST">
+        <test-method status="PASS" signature="login()[pri:0, instance:testcases.LoginTest@4f063c0a]" name="login" duration-ms="292" started-at="2022-12-19T10:37:40 IST" finished-at="2022-12-19T10:37:40 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- login -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:testcases.LoginTest@3a883ce7]" name="tearDown" is-config="true" duration-ms="921" started-at="2022-12-19T10:15:17 IST" finished-at="2022-12-19T10:15:18 IST">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:testcases.LoginTest@4f063c0a]" name="tearDown" is-config="true" duration-ms="16738" started-at="2022-12-19T10:37:40 IST" finished-at="2022-12-19T10:37:57 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
