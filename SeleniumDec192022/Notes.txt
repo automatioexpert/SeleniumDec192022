@@ -1,2 +1,8 @@
 Notes For Framework:
 
+-Basic layout & Folder structure
+-TestBase completed
+-Config Reader completed
+-Extent Report
+-
+
